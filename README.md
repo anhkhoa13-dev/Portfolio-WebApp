@@ -2,7 +2,7 @@
 
 ## 🌐 Live Website
 
-(Điền link GitHub Pages hoặc Netlify sau khi deploy)
+https://anhkhoa13-dev.github.io/Portfolio-WebApp/
 
 ---
 
@@ -44,17 +44,6 @@ contact.html     → Contact Form (Interactive)
    ├─ css/style.css
    └─ img/
 ```
-
----
-
-## 🚀 Deployment
-
-### Deploy to GitHub Pages:
-
-1. Commit toàn bộ code lên GitHub
-2. Vào **Settings → Pages**
-3. Chọn branch `main` và folder `/root`
-4. Bấm Save và chờ website tự sinh
 
 ---
 
